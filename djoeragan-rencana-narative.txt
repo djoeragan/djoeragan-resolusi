@@ -2,6 +2,8 @@ Rencana narative djoeragan
   - AI
     * WLD
     * AGIX
+    * GRT
   - DeFi
   - RWA
   - Special computing
+  - Metaverse
