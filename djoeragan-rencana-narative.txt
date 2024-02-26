@@ -4,7 +4,7 @@ Rencana narative djoeragan
     * AGIX
     * GRT
   - DeFi
-  - RWA
+    * UNI
   - Special computing
     * ICP
   - Metaverse
