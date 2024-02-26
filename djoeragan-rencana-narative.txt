@@ -6,4 +6,5 @@ Rencana narative djoeragan
   - DeFi
   - RWA
   - Special computing
+    * ICP
   - Metaverse
