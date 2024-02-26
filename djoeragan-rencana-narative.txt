@@ -2,7 +2,9 @@ Rencana narative djoeragan
   - AI
     * WLD
     * AGIX
-    * FET
+    * GRT
   - DeFi
     * UNI
   - Special computing
+    * ICP
+  - Metaverse
